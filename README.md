@@ -1,6 +1,6 @@
 # Responsive Sidebar With Coming Soon Template
 
-🌐 [Live Demo](https://mabbasdev.github.io/03-portfolio-template/)
+🌐 [Live Demo](https://mabbasdev.github.io/03-atlas-sidebar/)
 
 A clean, responsive portfolio template with a collapsible sidebar navigation. This is the foundation for my complete portfolio website — the structure is ready, just need to add the content.
 
