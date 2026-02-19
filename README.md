@@ -4,7 +4,9 @@
 
 A clean, responsive portfolio template with a collapsible sidebar navigation. This is the foundation for my complete portfolio website — the structure is ready, just need to add the content.
 
-![Portfolio Template Demo](03_portfolio_demo.gif)
+<div align="left" width="100%">
+  <img src="03_portfolio_demo.gif" alt="Quiz Game Demo" width="600px">
+</div>
 
 ## Features
 - **Responsive Sidebar**: 
